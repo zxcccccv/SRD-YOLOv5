@@ -26,21 +26,6 @@ The code will be released after paper acceptance.
 
 ---
 
-## 📦 Directory Structure
-
-```
-SRD-YOLOv5/
-├── configs/                 # Training and model configs
-├── data/                    # Data loading, preparation scripts
-├── models/                  # Model modules: backbone, neck, head
-├── utils/                   # Common utilities
-├── train.py                 # Training pipeline
-├── test.py                  # Evaluation & inference
-├── requirements.txt         # Environment requirements
-└── README.md
-```
-
----
 
 
 
