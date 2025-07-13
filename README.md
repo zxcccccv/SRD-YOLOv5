@@ -1,6 +1,6 @@
 # SRD-YOLOv5: Efficient Multi-Scale UAV Object Detection
 
-** The code will be released after paper acceptance. **
+The code will be released after paper acceptance.
 
 ##  Overview
 
